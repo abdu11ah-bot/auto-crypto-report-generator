@@ -1,19 +1,19 @@
 import requests
 from config import URL,TIMEOUT
 import logging
-def get_cripto_price():
+def get_cripto_price(coins):
     url = URL
     
     logging.info(f"get the url {url}")
     
     params = {
-        "ids": "ethereum,bitcoin,solana",
+        "ids": coins,
         "vs_currencies": "usd"
     }
     
     try:
         response = requests.get(url, params=params,timeout=TIMEOUT)
-        logging.info(f"get the response {response}")
+        logging.info(f"get the response {response.status_code}")
         
         if response.status_code == 200:
             data = response.json()

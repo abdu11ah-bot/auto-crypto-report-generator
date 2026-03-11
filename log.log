@@ -1,0 +1,41 @@
+2026-03-11 23:52:10,222 - INFO - fetching data for: ethereum,bitcoin,solana
+2026-03-11 23:52:10,222 - INFO - Application started...
+2026-03-11 23:52:10,222 - INFO - get the url https://api.coingecko.com/api/v3/simple/price
+2026-03-11 23:52:11,220 - INFO - get the response 200
+2026-03-11 23:52:11,220 - INFO - get the data {'bitcoin': {'usd': 70892}, 'ethereum': {'usd': 2069.26}, 'solana': {'usd': 87.25}}
+2026-03-11 23:54:42,754 - INFO - fetching data for: ethereum,bitcoin,solana
+2026-03-11 23:54:42,754 - INFO - Application started...
+2026-03-11 23:54:42,754 - INFO - get the url https://api.coingecko.com/api/v3/simple/price
+2026-03-11 23:54:43,432 - INFO - get the response 200
+2026-03-11 23:54:43,432 - INFO - get the data {'bitcoin': {'usd': 70920}, 'ethereum': {'usd': 2070.45}, 'solana': {'usd': 87.3}}
+2026-03-11 23:55:30,403 - INFO - fetching data for: ethereum,bitcoin,solana
+2026-03-11 23:55:30,403 - INFO - Application started...
+2026-03-11 23:55:30,403 - INFO - get the url https://api.coingecko.com/api/v3/simple/price
+2026-03-11 23:55:30,973 - INFO - get the response 200
+2026-03-11 23:55:30,975 - INFO - get the data {'bitcoin': {'usd': 70850}, 'ethereum': {'usd': 2068.58}, 'solana': {'usd': 87.28}}
+2026-03-11 23:56:12,161 - INFO - fetching data for: ethereum,bitcoin,solana
+2026-03-11 23:56:12,161 - INFO - Application started...
+2026-03-11 23:56:12,161 - INFO - get the url https://api.coingecko.com/api/v3/simple/price
+2026-03-11 23:56:12,471 - INFO - get the response 200
+2026-03-11 23:56:12,471 - INFO - get the data {'bitcoin': {'usd': 70850}, 'ethereum': {'usd': 2068.58}, 'solana': {'usd': 87.28}}
+2026-03-11 23:56:12,502 - INFO - Data exported to cripto_price.csv
+2026-03-11 23:56:12,502 - INFO - Data exported to csv...
+2026-03-11 23:56:12,502 - INFO - Generating report...
+2026-03-11 23:56:12,502 - INFO - Added BITCOIN: $70850
+2026-03-11 23:56:12,502 - INFO - Added ETHEREUM: $2068.58
+2026-03-11 23:56:12,502 - INFO - Added SOLANA: $87.28
+2026-03-11 23:56:12,506 - INFO - Report generated successfully
+2026-03-11 23:56:12,506 - INFO - Report generated successfully...
+2026-03-11 23:57:30,067 - INFO - fetching data for: ethereum,bitcoin,solana
+2026-03-11 23:57:30,067 - INFO - Application started...
+2026-03-11 23:57:30,067 - INFO - get the url https://api.coingecko.com/api/v3/simple/price
+2026-03-11 23:57:30,678 - INFO - get the response 200
+2026-03-11 23:57:30,678 - INFO - get the data {'bitcoin': {'usd': 70744}, 'ethereum': {'usd': 2066.39}, 'solana': {'usd': 87.22}}
+2026-03-11 23:57:30,680 - INFO - Data exported to cripto_price.csv
+2026-03-11 23:57:30,680 - INFO - Data exported to csv...
+2026-03-11 23:57:30,680 - INFO - Generating report...
+2026-03-11 23:57:30,680 - INFO - Added BITCOIN: $70744
+2026-03-11 23:57:30,680 - INFO - Added ETHEREUM: $2066.39
+2026-03-11 23:57:30,680 - INFO - Added SOLANA: $87.22
+2026-03-11 23:57:30,684 - INFO - Report generated successfully
+2026-03-11 23:57:30,684 - INFO - Report generated successfully...

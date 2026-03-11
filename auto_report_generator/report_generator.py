@@ -10,7 +10,7 @@ def generate_report(data):
         c = canvas.Canvas(filename, pagesize=letter)
         
         c.setFont("Helvetica", 14)
-        c.drawString(200, 750, "Daily Crypto Report")
+        c.drawString(180, 750, "Daily Crypto Report")
         c.setFont("Helvetica", 12)
         
         y= 700
